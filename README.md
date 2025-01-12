@@ -1,17 +1,12 @@
-# Shivangi Sirsiwal Project Portfolio
+## Hi! Welcome to my GitHub :)
 
-### tri-robot_maze-solving_system
+My name is Shivangi Sirsiwal (she/her), I am a fourth year robotics engineering student at WPI. I love robots and I love coding them, so you'll find a lot of my projects are focused in that area.
 
-## Project Overview
+I'm especially intereseted in multi-robot systems, manipulation robotics, and autonomus navigation, so feel free to reach out if you too are intereseted in these areas and want to chat, or if you have any questions regarding any of the projects on my profile.
 
-This project consists of a three-robot maze solver where the first robot searches for a button with an IR emmiter in it placed at the base of a ramp. The second robot climbs the ramp, recognizing it has reached the end of the ramp when the top part of the ramp falls into a platform. The second robot then tells the first robot to press the button to reveal an Apriltag containing encoded coordinates of the escape point. The second robot then sends these coordinates to the third robot which then goes to the escape point.
+📫 How to reach me: shivangisirsiwal@outlook.com
 
-See the system in the demo video below:
-
-https://github.com/Shivangi-Sirsiwal/tri-robot_maze-solving_system/assets/152037538/4449ab9a-d629-4a69-9218-d85e56ac5b8f
-
-
-
+Happy coding!
 <!--
 **Shivangi-Sirsiwal/Shivangi-Sirsiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
